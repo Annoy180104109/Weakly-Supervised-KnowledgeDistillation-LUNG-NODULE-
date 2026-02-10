@@ -39,14 +39,12 @@ Abstract—Accurate pixel-level annotation of lung nodules in CT scans is diffic
     <tr>
       <td>Attention U-Net</td><td>-</td><td>98.33</td><td>32.56</td><td>95.25</td><td>98.36</td><td>96.78</td><td>48.53</td><td>32.04</td><td>17.78</td>
     </tr>
-
     <tr>
       <td colspan="10"><b>Baseline Teacher–Student KD Models</b></td>
     </tr>
     <tr>
       <td>U-Net</td><td>U-NetDw</td><td><b>99.22</b></td><td>32.55</td><td>55.53</td><td><b>99.35</b></td><td>71.24</td><td>28.14</td><td>20.27</td><td>21.67</td>
     </tr>
-
     <tr>
       <td colspan="10"><b>Proposed Distillation Methods (Ours)</b></td>
     </tr>
